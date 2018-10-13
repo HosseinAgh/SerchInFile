@@ -5,7 +5,7 @@
 int main(int argc,char* argv[]){
 
 	if(argc != 3){
-		printf("search.exe <text to serach> <filename>.");
+		printf("searchLinux.exe <text to serach> <filename>.");
 		return 0;
 	}
 
